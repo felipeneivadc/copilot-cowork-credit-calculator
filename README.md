@@ -13,6 +13,12 @@ Site publicado: https://felipeneivadc.github.io/copilot-cowork-credit-calculator
 - Destaca automaticamente a opcao mais economica para o consumo informado.
 - Permite gerar PDF pela janela de impressao do navegador.
 
+## Base Microsoft
+
+Esta calculadora foi criada pela NEIVA Cloud Solutions como uma adaptacao independente baseada em uma calculadora oficial da Microsoft para estimativas de Cowork/Copilot Credits, incluindo referencias ao Customer Cowork Estimator e aos niveis do Copilot Credit Pre-Purchase Plan (P3).
+
+Este projeto nao e afiliado, patrocinado, aprovado ou endossado pela Microsoft. Microsoft, Copilot, Copilot Studio, Azure, Power Platform e nomes relacionados pertencem aos seus respectivos proprietarios.
+
 ## Estrutura
 
 ```text
@@ -45,7 +51,7 @@ git ls-tree -r --name-only HEAD
 
 ## Aviso
 
-Os valores exibidos sao estimativas para apoio a planejamento. Eles nao substituem validacao comercial, contratual ou tecnica com dados reais da organizacao.
+Os valores exibidos sao estimativas para apoio a planejamento. Eles nao substituem validacao comercial, contratual ou tecnica com fontes oficiais da Microsoft, contratos vigentes e dados reais da organizacao.
 
 ## Licenca
 
